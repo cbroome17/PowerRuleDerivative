@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+//TODO: ADD TRY/CATCH TO THE METHODS IN ORDER TO PREVENT RUNTIME ERROR IF USER INPUT IS INVALID
 package com.derivative;
 
 /**
